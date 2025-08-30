@@ -7,4 +7,4 @@
   </h4>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenn-00&size_weight=0.5&count_weight=0.5&hide=javascript,html,css,java&theme=dark&layout=compact&border_color=black)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xenn-00&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&theme=dark&layout=compact&border_color=black)
